@@ -39,7 +39,7 @@ namespace FluentValidationDRY.DRY_Validators
 
         private static bool NotBeTemporaryEmail(string email)
         {
-            return email.ToLower().EndsWith("yopmail.com");
+            return !email.ToLower().EndsWith("yopmail.com");
         }
     }
 }
