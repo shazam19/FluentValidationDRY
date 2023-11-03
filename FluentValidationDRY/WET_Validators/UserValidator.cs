@@ -14,7 +14,7 @@ namespace FluentValidationDRY.WET_Validators
 
         private bool NotBeTemporaryEmail(string email)
         {
-            return email.ToLower().EndsWith("yopmail.com");
+            return !email.ToLower().EndsWith("yopmail.com");
         }
     }
 }
