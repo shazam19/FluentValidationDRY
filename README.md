@@ -1,3 +1,5 @@
+![GitHub](https://github.com/shazam19/FluentValidationDRY/actions/workflows/dotnet-desktop.yml/badge.svg)
+
 # FluentValidationDRY
 
 Welcome to the repository where clean code meets validation! 🚀 This collection of examples showcases the power of the DRY (Don't Repeat Yourself) principle applied to FluentValidation within the .NET ecosystem. Dive into a curated selection of C# code snippets that demonstrate how to eliminate redundancy and boost the maintainability of your validation logic.
