@@ -11,3 +11,5 @@ Welcome to the repository where clean code meets validation! 🚀 This collectio
 Whether you're a seasoned .NET developer or just starting out, these examples will arm you with the knowledge to refine your approach to code validation. So, clone the repo, explore the examples, and start writing FluentValidation rules that adhere to the best practices of software craftsmanship.
 
 Don't forget to ⭐️ the repo if you find it useful, and contributions are always welcome!
+
+You can also read the article describing the details [here](https://medium.com/@shamsadzaman/code-once-validate-everywhere-dry-strategies-for-fluentvalidation-a9dd4e32d70e)
